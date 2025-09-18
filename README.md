@@ -25,4 +25,6 @@ If you are looking to explore everything this darknet marketplace offers, priori
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/downloads/final.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/downloads/tools.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  Sunday 14 September 2025
+
+
+Update:  18 September
