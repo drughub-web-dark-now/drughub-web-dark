@@ -27,4 +27,6 @@ If you are looking to explore everything this darknet marketplace offers, priori
 
 
 
-Update:  18 September
+
+
+Update:  01.10.2025 url is now functioning and accessible
